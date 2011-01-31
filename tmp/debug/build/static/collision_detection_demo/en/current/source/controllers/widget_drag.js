@@ -62,6 +62,7 @@ CollisionDetectionDemo.DragEvents = SC.ObjectController.create(
         loc = info.top + (evt.pageY - info.pageY);
         this.adjust('top', loc);
 
+
         return YES ; // event was handled!
     },
     
@@ -91,11 +92,8 @@ CollisionDetectionDemo.DragEvents = SC.ObjectController.create(
                 var overlapRect = (SC.intersectRects(Rect1.get('frame'), Rect2.get('frame')));
                 var doesOverlap = (overlapRect.width > 0 && overlapRect.height > 0);
 
+
                 if (doesOverlap) {
-
-                    //If the Rects do Overlap, then find out which direction
-
-                    console.log(overlapRect);
 
                     //Overlaps Horizontally
 
@@ -219,7 +217,7 @@ CollisionDetectionDemo.DragEvents = SC.ObjectController.create(
 
         this._mouseDownInfo = null; // cleanup info
         this.set('widgetArray', null);
-        
+
         this.set('previousLayout', null);
 
         Rect1.get('classNames').pop();
