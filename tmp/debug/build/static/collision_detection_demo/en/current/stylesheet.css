@@ -1,0 +1,8 @@
+/* >>>>>>>>>> BEGIN source/resources/style.css */
+/* CSS */
+
+widget-top {
+    z-index:100 !important;
+    border: 2px solid black !important;
+
+}

@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="d9c513d8-05b7-4467-9e78-3405799b03f4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/welcome/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/split_view.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/math.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/mixins/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/collision_detection_demo/en/current/source/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/welcome/en/current/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/date_field.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/collection.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/collision_detection_demo/en/current/source/views/drag_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/validators/not_empty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/data_sources/data_source.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/testing/en/current/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/core_query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/segmented.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/license.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/menu_item_view.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/collision_detection_demo/controllers/widget_drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/collision_detection_demo/en/current/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/private/chain_observer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/debug/en/current/bundle_loaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/validators/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/scroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/enumerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/mixins/collection_group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/bundle_loaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/protocols/drop_target.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/pushObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/core_tools/en/current/data_source.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/views/container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/binding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/standard_theme/en/current/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/source_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/collision_detection_demo/resources/loading.rhtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/bootstrap/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/en/current/license.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/data_sources/cascade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/tree_item_content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/system/many_array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/benchmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/radio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/fixtures/sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/protocols/drag_data_source.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/controllers/controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/protocols/inline_editor_delegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/panes/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/thumb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/fixtures/author_fixtures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/license.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/desktop/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/mixins/freezable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/scroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/collision_detection_demo/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/welcome/en/current/controllers/targets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/ext/run_loop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/validators/credit_card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/models/record.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/system/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/models/many_attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/bundle_loaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/run_loop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/disclosure.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/sparse_array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/index_set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/controllers/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/shiftObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/mixins/collection_view_delegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/responder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/root_responder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/view.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/models/single_attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/panes/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/debug/drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/panes/picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/list_item.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/separator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/stylesheet-packed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/collision_detection_demo/en/current/source/resources/main_page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/collision_detection_demo/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/popup_button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/additions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/debug/control_test_pane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/panes/palette.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/bundle_loaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/debug/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/selection_support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/javascript-packed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/validatable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/collision_detection_demo/tests/controllers/widget_drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/removeAt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/runtime/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/core_tools/en/current/fixtures/target.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/private/observer_queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/inline_editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/image_cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/foundation/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/bootstrap/en/current/system/loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/rangeObserver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/protocols/observable_protocol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/models/record_attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/mixins/scrollable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/desktop/en/current/images/icons/shared.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/core_tools/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/panes/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/pane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/core_tools/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/debug/en/current/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/models/fetched_attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/label.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/foundation/en/current/images/sproutcore-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/bundle_loaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/well.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/welcome/en/current/lproj/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/core_tools/en/current/lproj/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/system/record_array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/foundation/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/system/plan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/radio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/objectAt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/runtime/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/validators/validator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/testing/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/tests/-index.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/collision_detection_demo/en/current/bundle_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/mixins/observable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/menu_item.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/core_tools/en/current/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/replace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/collision_detection_demo/tests/views/drag_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/validators/date_time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/system/suite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/mixins/border.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/en/current/bundle_loaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/controllers/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/core_tools/en/current/models/target.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/welcome/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/controllers/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/bootstrap/en/current/setup_body_class_names.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/selection_set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/web.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/collision_detection_demo/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/views/text_field.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/mixins/delegate_support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/testsuite.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/system/equiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/views/field.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/desktop/en/current/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/system/undo_manager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/button_view.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/list_item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/panes/panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/text_selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/scene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/validators/positive_integer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/separator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/drag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/collection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/text_field.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/collection_content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/welcome/en/current/main_page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/bootstrap/en/current/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/views/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/welcome/en/current/bundle_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/datastore/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/static_content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/panes/select_button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/models/child_attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/split.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/welcome/en/current/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/collision_detection_demo/resources/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/tasks/preload_bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/core_tools/en/current/models/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/lproj/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/range_observer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/collision_detection_demo/en/current/source/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/protocols/drag_source.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/protocols/responder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/progress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/system/dump.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/bootstrap/en/current/system/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/data_sources/fixtures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/welcome/en/current/lproj/main_page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/collision_detection_demo/resources/main_page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/welcome/en/current/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/datetime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/standard_theme/en/current/images/panels/sprite-x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/panes/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/static_layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/system/drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/core_tools/en/current/fixtures/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/system/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/render_context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/debug/standard_setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/validators/email.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/validators/password.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/standard_theme/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/radio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/select_field.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/bootstrap/en/current/bundle_loaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/ext/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/validators/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/system/child_array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/disclosure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/popObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/inline_text_field.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/mixins/enumerable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/bundle_loaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/insertAt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/welcome/en/current/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/collision_detection_demo/en/current/resources/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/tasks/task.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/models/children_attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/mixins/collection_row_delegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/private/tree_item_observer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/system/nested_store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/panes/sheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/collision_detection_demo/en/current/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/collision_detection_demo/en/current/source/controllers/widget_drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/standard_theme/en/current/images/panels/sprite-y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/datastore/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/lproj/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/extras.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/content_display.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/unshiftObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/debug/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/exception_handler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/private/observer_set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/foundation/en/current/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/label.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/well.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/debug/en/current/invoke_once_last_debugging.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/system/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/mixins/collection_fast_path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/views/label.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/standard_theme/en/current/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/segmented.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/mixins/copyable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/build/static/sproutcore/standard_theme/en/current/images/sc-theme-repeat-x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/task_queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/testing/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/bootstrap/en/current/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/panes/pane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/mixins/comparable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/source_list_group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/system/key_bindings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/responder_context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/split_divider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/cursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/core_tools/en/current/bundle_loaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/mixins/static_layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/testing/en/current/runner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/static/sproutcore/desktop/__file_attr_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/menu_scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/debug/test_suites/array/removeObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/debug/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/split_divider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/desktop/en/current/views/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/collision_detection_demo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/datastore/en/current/models/child_record.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/debug/control-test-pane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/text_field.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/views/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/foundation/en/current/system/user_defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/protocols/sparse_array_delegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/debug/staging/static/sproutcore/runtime/en/current/system/set.js" />
+    </list>
+    <ignored path="collision_detection_demo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="collision_detection_demo" />
+  </component>
+  <component name="FileColors" enabled="true" enabledForTabs="true" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="widget_drag.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/collision_detection_demo/controllers/widget_drag.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="30" selection-start="590" selection-end="590" vertical-scroll-proportion="0.58221024">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_page.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/collision_detection_demo/resources/main_page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="10" selection-start="2313" selection-end="2313" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/collision_detection_demo/resources/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="1" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="GIT_EXECUTABLE" value="/usr/local/git/bin/git" />
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/apps/collision_detection_demo/views/drag_events.js" />
+        <option value="$PROJECT_DIR$/apps/collision_detection_demo/resources/style.css" />
+        <option value="$PROJECT_DIR$/apps/collision_detection_demo/resources/main_page.js" />
+        <option value="$PROJECT_DIR$/apps/collision_detection_demo/controllers/widget_drag.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Favorites" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collision_detection_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collision_detection_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collision_detection_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToAction.allIncluded" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propCVS" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="UPDATE_RUN_STATUS" value="false" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <configuration useDefault="true">$PROJECT_DIR$/../../.subversion_IDEA</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c513d8-05b7-4467-9e78-3405799b03f4" name="Default" comment="" />
+      <created>1294970378496</created>
+      <updated>1294970378496</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="726" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32838285" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14529221" sideWeight="0.52279204" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19967532" sideWeight="0.660066" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="122" width="1240" height="622" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="collision_detection_demo" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="collision_detection_demo" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apps/collision_detection_demo/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/collision_detection_demo/core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/collision_detection_demo/resources/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/collision_detection_demo/resources/main_page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="10" selection-start="2313" selection-end="2313" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/collision_detection_demo/controllers/widget_drag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="30" selection-start="590" selection-end="590" vertical-scroll-proportion="0.58221024">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
